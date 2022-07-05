@@ -1,16 +1,28 @@
-### Hi there 👋
+<div id="top"></div>
 
-<!--
-**BaraNavaAlan/BaraNavaALan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
 
-Here are some ideas to get you started:
+  <h3 align="center">Alan Fabricio Barahona Navarro</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    Bienvenido, Soy Alan Barahona programador Back-End, mi punto fuerte es php con Laravel, cuento con catalogo de proyectos utilizando herramientas como: Api's, Sanctum, Fortify. 
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Mis Proyectos »</strong></a>
+    <br />
+  </p>
+
+</div>
+
+
+<div class="row">
+  <div class="column" align="center ">
+   <img src="media/images/php.png" alt="Logo"  width="200" height="200">
+  </div>
+  <div class="column" align="right">
+   <img src="media/images/html.png" alt="Logo"  width="200" height="200">
+  </div>
+</div>
+
+
