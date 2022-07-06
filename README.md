@@ -1,16 +1,28 @@
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
+<br/>
 
-  <h3 align="center">Alan Fabricio Barahona Navarro</h3>
+ ## Hola, Soy ALan Barahona  
+<div align="center">
+  
+  <div align="center">💻 Software Developer </div> <br>
+  
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=black)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)  
+![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+ 
+  
 
   <p align="center">
     Bienvenido, Soy Alan Barahona programador Back-End, mi punto fuerte es php con Laravel, cuento con catalogo de proyectos utilizando herramientas como: Api's, Sanctum, Fortify. 
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Mis Proyectos »</strong></a>
-    <br />
+    
   </p>
 
 </div>
