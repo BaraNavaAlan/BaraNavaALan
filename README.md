@@ -18,11 +18,7 @@
 
 <div class="row">
   <div class="column" align="center ">
-   <img src="media/images/php.png" alt="Logo"  width="200" height="200">
-  </div>
-  <div class="column" align="right">
-   <img src="media/images/html.png" alt="Logo"  width="200" height="200">
-  </div>
+   <img src="media/images/Banner.png" alt="Logo"  width="200" height="200">
 </div>
 
 
