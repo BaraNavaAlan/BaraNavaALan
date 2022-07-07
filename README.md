@@ -34,14 +34,8 @@
 
 ## Mis estadisticas
   
-  <div align="center">
-  <a href="https://github.com/BaraNavaALan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BaraNavaALan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaraNavaALan&layout=compact&langs_count=7&theme=dracula"/>
-    
-    
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=BaraNavaAlan&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=BaraNavaAlan&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
+| ------------- | ------------- |
 
   ## Idiomas
 
